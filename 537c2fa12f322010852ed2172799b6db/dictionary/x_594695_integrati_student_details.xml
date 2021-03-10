@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Student details" max_length="40" name="x_594695_integrati_student_details" type="collection">
+        <element label="Branch" max_length="20" name="branch" type="string"/>
+        <element label="Name" max_length="20" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Rollno" max_length="20" name="rollno" type="integer"/>
+    </element>
+</database>
